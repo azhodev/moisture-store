@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="text-amber-500 text-2xl">main</h1>
+        footer
     </div>
 </template>
 
