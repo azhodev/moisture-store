@@ -4,9 +4,9 @@
         <BaseOuterWrapper>
             <div class="flex items-center justify-between gap-4 flex-wrap">
                 <!-- ЛОГО -->
-                <div class="xs:text-2xl lg:text-4xl font-semibold text-primary z-50">
+                <NuxtLink to="/" class="xs:text-2xl lg:text-4xl font-semibold text-primary z-50">
                     РусТехно
-                </div>
+                </NuxtLink>
 
                 <!-- Контактная информация -->
                 <div class="hidden lg:flex items-center gap-15 text-gray-700 flex-wrap">
